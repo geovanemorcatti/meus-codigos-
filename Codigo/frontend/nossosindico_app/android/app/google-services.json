@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "675287784625",
+    "firebase_url": "https://nosso-sindico-263f6-default-rtdb.firebaseio.com",
+    "project_id": "nosso-sindico-263f6",
+    "storage_bucket": "nosso-sindico-263f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675287784625:android:741fd232c065264f011690",
+        "android_client_info": {
+          "package_name": "com.example.chat_tis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675287784625-neq8ij3peo9eq0sf8vtoi5hc9hmmnju4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQ6_G0lkKWeLFeaEPla3YOSaLK1phcdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675287784625-neq8ij3peo9eq0sf8vtoi5hc9hmmnju4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675287784625-36ue239htc83h7kusgb0u8fhrbc66fi5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatTis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675287784625:android:5807ea5e3a92df81011690",
+        "android_client_info": {
+          "package_name": "com.example.nossosindico_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675287784625-neq8ij3peo9eq0sf8vtoi5hc9hmmnju4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEQ6_G0lkKWeLFeaEPla3YOSaLK1phcdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675287784625-neq8ij3peo9eq0sf8vtoi5hc9hmmnju4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675287784625-36ue239htc83h7kusgb0u8fhrbc66fi5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatTis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

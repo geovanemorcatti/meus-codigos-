@@ -1,0 +1,29 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Nosso Síndico
+authors:
+  - family-names: Silveira Cequeira Lima
+    given-names: Bruno
+  - family-names: Oliveira Gomide
+    given-names: Gabriel
+  - family-names: de Freitas Queiroz Morcatti
+    given-names: Geovane
+  - family-names: Dias Barbosa
+    given-names: Marcos Henrique
+  - family-names: Samartini de Toledo
+    given-names: Mateus
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Silva Tavares
+    given-names: Cleiton
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves de Oliveira
+    given-names: Pedro
+keywords:
+  - Condominio
+  - Gestão
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti5-5104100-nossosindico
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
